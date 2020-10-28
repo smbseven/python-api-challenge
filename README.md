@@ -9,5 +9,5 @@ output png files from the scatter plots
 folder 2: vacationpy
 Content:
 Jupyter Notebook VacationPy_smb
-input csv file
-
+input csv file, notice that reading this dataframe happens at the same folder level
+eliminating API keys for security purposes
